@@ -7,7 +7,7 @@
     <artifactId>hessian-hello</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <description>学习Hessian-HellowWorld</description>
+    <description>学习Hessian-HelloWorld</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
